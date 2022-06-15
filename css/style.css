@@ -81,9 +81,9 @@ height: 100%;
   
 
 .avatar img {
-    width: 89px;
-    height: 89px;
-    border-radius: 45px;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
 }
 
 .embed-vid {
